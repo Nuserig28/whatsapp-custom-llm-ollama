@@ -64,7 +64,7 @@ SQLITE_PATH=./app_data.sqlite
 RATE_LIMIT_WA_PER_MINUTE=10
 ```
 
-Never commit real tokens or secrets.
+
 
 ---
 
