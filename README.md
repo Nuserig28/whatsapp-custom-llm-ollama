@@ -22,7 +22,7 @@ This project is designed as a local-first WhatsApp AI backend using Ollama and d
 META_WA_VERIFY_TOKEN=your_verify_token
 
 # Meta signature verification (optional but supported)
-META_APP_SECRET=
+META_APP_SECRET=your_app_secret
 
 # Meta send message (Cloud API)
 META_WA_ACCESS_TOKEN=your_access_token
